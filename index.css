@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.fondopagina {
+	background-color: rgba(64, 207, 255,0.17);
+}
+
+.encabezado, .menudecontenido  {
+	background-color:rgba(181, 178, 178,0.50);
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+	}
+
+.encabezado {
+	
+	border-color: #00008B;
+	border-width: 3px;
+	border-style: solid;
+}
+
+#logotexto {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#TITULOPRINCIPAL{
+	text-align: center;
+}
+
+.E {
+	color: rgba(255, 0, 90 , 0.80);
+	font-family: Monotype Corsiva;
+}
+
+ .PRO {
+ 	color:#00008B;
+
+ }
